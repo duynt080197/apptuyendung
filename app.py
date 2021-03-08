@@ -5,6 +5,8 @@ Tạo website hiển thị danh sách các jobs khi vào đường dẫn /.
 Khi bấm vào mỗi job (1 link), sẽ mở ra trang chi tiết về jobs (giống như trên
 các trang web tìm viêc)."""
 
+#Ghé thăm web của mình tại: https://jobspy.herokuapp.com/
+
 import requests
 import json
 import sqlite3
